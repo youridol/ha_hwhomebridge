@@ -57,7 +57,7 @@
 1. 在 HACS 中添加自定义仓库：
 
 ```
-https://github.com/Wangxiaokang666-666/ha_hwhomebridge
+https://github.com/youridol/ha_hwhomebridge
 ```
 
 2. 点击下载并安装
